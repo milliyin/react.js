@@ -18,7 +18,8 @@ Viewing the history of to-do items.
 <!--Remove the below lines and add yours -->
 
 ```
-$ python main.py
+$ npm run build
+$ npm run dev
 ```
 
 ### Screenshot/GIF showing the sample use of the script

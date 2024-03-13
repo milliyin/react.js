@@ -2,7 +2,7 @@
 
 <!--Remove the below lines and add yours -->
 
-This React script serves as your todo check list
+This React script serves as your todo check list. 
 https://your-todos.pages.dev
 
 ### Features
@@ -27,9 +27,6 @@ $ npm run dev
 <!--Remove the below lines and add yours -->
 
 ![input_image](Output.png)
-### Important Files
-
-config.py: Configuration file containing API keys.
 
 ## Working
 
